@@ -1,0 +1,101 @@
+JobID,JobTitle,RequiredSkills
+1,Database Admin,Linux JavaScript Java Django Kubernetes
+2,Database Admin,ML React Linux Git
+3,Data Scientist,Agile C++ Flask DL React Java
+4,Game Developer,Kotlin Swift Linux Docker
+5,Frontend Developer,Docker AI ML JavaScript
+6,Database Admin,Azure Java R Django Kotlin Ruby
+7,Web Developer,C++ Ruby Kotlin Agile
+8,IT Support,JavaScript Git Swift
+9,Game Developer,C Linux Git CSS Azure
+10,Cloud Engineer,Node Flask Azure
+11,Cybersecurity Analyst,Git Node AWS
+12,Software Tester,CSS ML AWS
+13,ML Engineer,Node C AWS
+14,Android Developer,Linux HTML AI Flask Swift
+15,AI Engineer,AI Ruby Agile SQL
+16,Frontend Developer,Flask R Java Kubernetes
+17,Database Admin,JavaScript AI ML Azure Git
+18,Backend Developer,CSS Agile Node Ruby Java React
+19,Backend Developer,Git AWS Kotlin Linux SQL
+20,ML Engineer,C++ React AWS
+21,Android Developer,React SQL AI DL Swift
+22,Software Tester,ML Ruby React Flask SQL
+23,Backend Developer,React Django SQL
+24,Android Developer,CSS Flask Azure C Linux Swift
+25,System Analyst,Agile Linux HTML
+26,Cybersecurity Analyst,React JavaScript Swift C++ Kotlin
+27,Full Stack Developer,C++ Agile Kotlin Docker
+28,Web Developer,Agile Git DL Linux
+29,iOS Developer,Swift DL CSS
+30,Full Stack Developer,C++ SQL DL
+31,Backend Developer,JavaScript Django Agile
+32,IT Support,ML R React C++ Git Docker
+33,Android Developer,React C++ Node
+34,Android Developer,Azure Java Python R Django Docker
+35,Software Tester,Flask SQL R
+36,IT Support,Flask Git Agile Django C++
+37,Software Tester,HTML Python Ruby Agile Java Git
+38,Network Engineer,DL ML Git
+39,iOS Developer,Docker C Linux AI C++
+40,System Analyst,HTML AI SQL React Git
+41,Network Engineer,Swift Kubernetes Agile C Go
+42,Product Manager,AWS Java AI Node CSS
+43,Backend Developer,JavaScript Django Azure
+44,Backend Developer,R Python Azure Swift
+45,Data Scientist,AI Agile ML Azure Kotlin C
+46,Database Admin,R Agile React Node
+47,Cybersecurity Analyst,DL Go Kotlin C++ Swift
+48,ML Engineer,SQL Python Swift AWS Agile
+49,DevOps Engineer,JavaScript Docker C++ Flask AI Kotlin
+50,Game Developer,Java JavaScript Git Kotlin Kubernetes React
+51,Frontend Developer,Kubernetes JavaScript Go Django Azure
+52,Backend Developer,HTML Django Agile Azure C
+53,Game Developer,Docker SQL DL C++ R
+54,Software Tester,Kotlin Docker Flask C++ ML
+55,iOS Developer,Flask Docker Kotlin ML
+56,Cloud Engineer,Swift CSS Go
+57,DevOps Engineer,CSS Node R DL Agile
+58,Product Manager,Java Kotlin C Ruby HTML Git
+59,System Analyst,Flask Swift DL Agile Azure Kubernetes
+60,Frontend Developer,Kubernetes CSS Swift C++
+61,iOS Developer,Azure R Python SQL Flask C++
+62,iOS Developer,Docker DL Linux HTML SQL Flask
+63,Frontend Developer,CSS DL SQL
+64,ML Engineer,Ruby Java React Docker Django R
+65,iOS Developer,Flask Go Kotlin Python Swift
+66,DevOps Engineer,Java Node Linux
+67,ML Engineer,DL Ruby Java Django Go Kubernetes
+68,Android Developer,ML Node Linux
+69,Data Scientist,DL Ruby Node Agile Docker
+70,Cloud Engineer,Django Agile Swift Azure
+71,Android Developer,Node DL React Go Django
+72,AI Engineer,Go Git ML Kubernetes
+73,Network Engineer,Swift Go Agile Django
+74,DevOps Engineer,React DL Git C++
+75,Game Developer,AWS Java Django
+76,Database Admin,Kotlin Flask DL C
+77,Product Manager,Go Django Kubernetes Java Azure
+78,Database Admin,React Linux Node AWS
+79,iOS Developer,AWS Go Kotlin Node SQL
+80,Software Tester,AWS AI C++ Linux Ruby
+81,AI Engineer,Python Kotlin DL Django Git
+82,System Analyst,Agile HTML Node
+83,ML Engineer,SQL Swift Java Go
+84,AI Engineer,ML Go Docker Python
+85,Game Developer,SQL JavaScript DL Python
+86,Game Developer,DL Swift Linux Python R Agile
+87,Software Tester,DL Flask Git AWS JavaScript
+88,Network Engineer,Go Django Node Docker
+89,ML Engineer,ML Node AI Django R Kotlin
+90,AI Engineer,Azure R C++
+91,DevOps Engineer,Docker ML HTML Swift Node
+92,Embedded Systems Engineer,Django C Azure Docker
+93,Database Admin,JavaScript Kotlin R Flask Git SQL
+94,iOS Developer,C++ CSS R C Ruby
+95,Backend Developer,Agile DL CSS
+96,Android Developer,Agile Kubernetes Python AWS Node
+97,DevOps Engineer,Java AWS Go
+98,System Analyst,Kubernetes Node JavaScript
+99,Frontend Developer,AWS C++ Agile
+100,Android Developer,Django R C Docker React
